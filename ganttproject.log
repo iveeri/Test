@@ -9,14 +9,7 @@ java.vm.version: 20.65-b04-462
 os.arch: x86_64
 os.name: Mac OS X
 os.version: 10.9
-sun.java.command: null
-user.country: US
-user.dir: /Applications
-user.home: /Users/Ryan
-user.language: en
-user.timezone: America/Chicago
-
-Creating main frame...
+sun.java.command:
 1. loading look'n'feels
 no editor for column=0 class=interface javax.swing.Icon
 no editor for column=1 class=interface javax.swing.Icon
@@ -64,3 +57,7 @@ no editor for column=2 class=interface javax.swing.Icon
 no editor for column=0 class=interface javax.swing.tree.TreeNode
 Oct 26, 2013 10:50:48 PM org.bardsoftware.impl.eclipsito.BootImpl shutdown
 INFO: Eclipsito platform is shut down.
+
+
+
+oiweFJ;IOEWHFIOwehfoiweJFOEWJFOiejw
