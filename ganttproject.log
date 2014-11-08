@@ -1,0 +1,66 @@
+java.class.path: /Applications/GanttProject 2.6.1.app/Contents/Resources/Java/eclipsito.jar:/Applications/GanttProject 2.6.1.app/Contents/Resources/Java
+java.home: /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
+java.io.tmpdir: /var/folders/67/ptzgtjqd0qdctkg_mw1m0_5w0000gn/T/
+java.runtime.version: 1.6.0_65-b14-462-11M4609
+java.vendor: Apple Inc.
+java.vm.name: Java HotSpot(TM) 64-Bit Server VM
+java.vm.vendor: Apple Inc.
+java.vm.version: 20.65-b04-462
+os.arch: x86_64
+os.name: Mac OS X
+os.version: 10.9
+sun.java.command: null
+user.country: US
+user.dir: /Applications
+user.home: /Users/Ryan
+user.language: en
+user.timezone: America/Chicago
+
+Creating main frame...
+1. loading look'n'feels
+no editor for column=0 class=interface javax.swing.Icon
+no editor for column=1 class=interface javax.swing.Icon
+no editor for column=2 class=interface javax.swing.Icon
+no editor for column=0 class=interface javax.swing.tree.TreeNode
+2. loading options
+3. creating menus...
+4. creating views...
+5. calculating size and packing...
+6. changing language ...
+7. changing look'n'feel ...
+8. finalizing...
+Main frame created
+Splash closed
+no editor for column=0 class=interface javax.swing.Icon
+no editor for column=1 class=interface javax.swing.Icon
+no editor for column=2 class=interface javax.swing.Icon
+no editor for column=0 class=interface javax.swing.tree.TreeNode
+Oct 25, 2013 9:21:50 PM net.sourceforge.ganttproject.GPLogger logToLogger
+WARNING: Task #8 Decoration phase
+	END DATE old:11/25/11 new:11/29/11
+scheduling job=net.sourceforge.ganttproject.export.ExporterBase$2@4c53ccba group=net.sourceforge.ganttproject.gui.GanttStatusBar$ProgressMonitorImpl@11a5ee7c
+scheduling job=net.sourceforge.ganttproject.export.ExporterBase$2@4c53ccba
+Oct 25, 2013 9:22:30 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin Task: name=Running export
+Oct 25, 2013 9:22:30 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin subTask: name=Generating PDF
+Oct 25, 2013 9:22:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished subTask
+Oct 25, 2013 9:22:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin subTask: name=Finalizing
+Oct 25, 2013 9:22:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished subTask
+Oct 25, 2013 9:22:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished Task
+no editor for column=0 class=interface javax.swing.Icon
+no editor for column=1 class=interface javax.swing.Icon
+no editor for column=2 class=interface javax.swing.Icon
+no editor for column=0 class=interface javax.swing.tree.TreeNode
+Oct 26, 2013 10:50:45 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+no editor for column=0 class=interface javax.swing.Icon
+no editor for column=1 class=interface javax.swing.Icon
+no editor for column=2 class=interface javax.swing.Icon
+no editor for column=0 class=interface javax.swing.tree.TreeNode
+Oct 26, 2013 10:50:48 PM org.bardsoftware.impl.eclipsito.BootImpl shutdown
+INFO: Eclipsito platform is shut down.
