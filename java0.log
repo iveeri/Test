@@ -1,0 +1,54 @@
+Oct 25, 2013 9:10:36 PM net.sourceforge.ganttproject.GPLogger logToLogger
+WARNING: Task #8 Decoration phase
+	END DATE old:11/25/11 new:11/29/11
+Task #0 Architectural design
+	END DATE old:8/12/11 new:8/11/11
+Task #1 Foundation building
+	START DATE old:8/12/11 new:8/11/11
+Task #2 Ground Floor building
+	START DATE old:9/2/11 new:9/1/11
+Task #4 First Floor building
+	START DATE old:9/30/11 new:9/29/11
+Task #5 Roof
+	START DATE old:10/28/11 new:10/27/11
+Task #18 Construction completed 
+	START DATE old:11/11/11 new:11/10/11
+Task #6 Walls
+	START DATE old:11/14/11 new:11/10/11
+Task #16 Connect to communications
+	START DATE old:11/14/11 new:11/10/11
+Task #7 Construction phase
+	START DATE old:8/12/11 new:8/11/11
+Task #7 Construction phase
+	END DATE old:11/26/11 new:11/24/11
+Task #15 Furniture
+	START DATE old:11/21/11 new:11/17/11
+Task #20 Bring your family here
+	START DATE old:11/28/11 new:11/24/11
+Task #8 Decoration phase
+	START DATE old:11/14/11 new:11/10/11
+Task #8 Decoration phase
+	END DATE old:11/29/11 new:11/24/11
+Oct 25, 2013 9:17:16 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Oct 25, 2013 9:17:16 PM org.bardsoftware.impl.eclipsito.BootImpl shutdown
+INFO: Eclipsito platform is shut down.
+Oct 25, 2013 9:21:50 PM net.sourceforge.ganttproject.GPLogger logToLogger
+WARNING: Task #8 Decoration phase
+	END DATE old:11/25/11 new:11/29/11
+Oct 25, 2013 9:22:30 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin Task: name=Running export
+Oct 25, 2013 9:22:30 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin subTask: name=Generating PDF
+Oct 25, 2013 9:22:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished subTask
+Oct 25, 2013 9:22:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] begin subTask: name=Finalizing
+Oct 25, 2013 9:22:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished subTask
+Oct 25, 2013 9:22:31 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [ProgressMonitorImpl] finished Task
+Oct 26, 2013 10:50:45 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Oct 26, 2013 10:50:48 PM org.bardsoftware.impl.eclipsito.BootImpl shutdown
+INFO: Eclipsito platform is shut down.
